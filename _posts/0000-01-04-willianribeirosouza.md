@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Droidtocat to the rescue!"
 ---
 
 The first law of robotics is...
