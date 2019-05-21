@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Droidtocat to the rescue!"
 ---
 
-Caption here
+The first law of robotics is... [changed1]
 
 ![droidtocat](https://octodex.github.com/images/droidtocat.png)
 {: .center}

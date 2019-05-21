@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our team!"
 ---
 
-Caption here
+At least I don't also have eight kids.
 
 ![poptocat](https://octodex.github.com/images/poptocat.png)
 {: .center}
