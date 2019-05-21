@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome!!!"
 ---
 
-You aren't getting in here. Another change.
+Tropical feels no matter the latitude. 
 
-![steroidtocat](https://octodex.github.com/images/steroidtocat.png)
+![hula](https://octodex.github.com/images/hula_loop_octodex03.gif)
 {: .center}
