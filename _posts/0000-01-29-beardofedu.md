@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome!!!"
 ---
 
-You aren't getting in here.
+Tropical feels no matter the latitude. 
 
-![steroidtocat](https://octodex.github.com/images/steroidtocat.png)
+![hula](https://octodex.github.com/images/hula_loop_octodex03.gif)
 {: .center}
