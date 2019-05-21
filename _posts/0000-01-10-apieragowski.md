@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Welcome to our team!"
 ---
 
 At least I don't also have eight kids.
