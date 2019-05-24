@@ -25,3 +25,6 @@
   - In the class repository, there are several open issues. You can find them by looking at the Project page or in the Issues tab. Each issue lists a different task you can complete to improve the class repository. 
   - Pick an issue, and follow the instructions linked within it. 
   - Regardless of which issue you choose, you will practice the GitHub flow again on your own and create a new pull request.
+  
+  
+  day 1 change
