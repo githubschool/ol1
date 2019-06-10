@@ -6,6 +6,8 @@ layout: presentation
 	{% include slide.html %}
 	<div class="page-break"></div>
 {% endfor %}
+<!-- mark add notes -->
+
 {% unless site.simple-slideshow %}
 {% if site.overview %}
 <section id="overview" class="step" {% for attr in site.overview-data %} data-{{attr[0]}}="{{attr[1]}}"{% endfor %}></section>
