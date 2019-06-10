@@ -15,6 +15,7 @@
 - Create a pull request.
 
 ### After Class Activities:
+### Modifei by Sergei Kapran:
 
 #### 1. Complete a code review of someone else's slide file.
   - Since you're partnered, and everyone wants a review, both you and your partner should complete a review of different pull requests.
