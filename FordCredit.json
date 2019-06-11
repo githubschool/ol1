@@ -1,0 +1,138 @@
+{
+  "customerInformation": {
+    "customerFirstName": "CUSTB",
+    "customerMiddleName": "D",
+    "customerLastName": "PERSB",
+    "companyBusinessName": null,
+    "primaryApplicantAddressLine1": "10484 JOHNATHON AVE",
+    "primaryApplicantAddressLine2": null,
+    "primaryApplicantCity": "CHARLOTTE",
+    "primaryApplicantStateCode": "NC",
+    "primaryApplicantOtherState": null,
+    "primaryApplicantCountryCode": "USA",
+    "primaryApplicantPostCode": "28277",
+    "primaryApplicantOtherPostCode": null,
+    "primaryApplicantPhoneNumber": "5144576439",
+    "coBuyerFirstName": "COBUYERB",
+    "coBuyerMiddleName": null,
+    "coBuyerLastName": "PERSB",
+    "coBuyerGenerationName": null,
+    "coBuyerIndicator": "Y"
+  },
+  "accountInformation": {
+    "accountStatus": "9",
+    "busPortofolioTagCode": null,
+    "customerAccountNumber": 87259689,
+    "contractCountryCode": "US",
+    "contractStateProvince": "CT",
+    "companyBusinessCode": 1,
+    "contractDate": "2016-11-29",
+    "contractTermMonthsCount": 0,
+    "contractTermMonthsNumber": 36,
+    "creditNextPaymentAmount": 0,
+    "currentDueTaxAmount": 0,
+    "currentDueWithoutTaxAmount": 0,
+    "currentEstimatedRetailValueAmount": 0,
+    "discountingOriginalBranchCode": null,
+    "disposalFeeAmount": 0,
+    "estimatedMileageKilometerNumber": 0,
+    "excessMileageKilometerPrepaidChargePerMile": 0,
+    "excessMileageKilometerPurchasedAmount": 0,
+    "excessMileageKilometerTerminationChargePerMile": 0,
+    "extendedTerminationDate": "2019-12-29",
+    "finalPaymentDueDate": null,
+    "financeLabel": 3,
+    "fordCreditSpecialPurchaseCode": 0,
+    "laProductTypeCode": "1",
+    "lateChargeOutstandingAmount": 0,
+    "mileageKilometersAllowedNumber": 0,
+    "miscellaneousChargeDueAmount": 0,
+    "miscellaneousChargesDueTaxAmount": 0,
+    "nationalRecoveryCenterIndicator": null,
+    "overPaymentsAmount": 0,
+    "paymentScheduleCategoryCode": 0,
+    "paymentScheduleNumber": 0,
+    "principleOutstandingTaxAmount": 0,
+    "principleOutstandingWithoutTaxAmount": 0,
+    "priorCurrentDueDate": null,
+    "rentalSecurityDepositReconditioningReserveAmount": 0,
+    "scheduledTerminationDate": "2019-12-29",
+    "serviceBranchCode": "JK",
+    "superBranchCode": "LG",
+    "servicingDdlpAccountNumber": null,
+    "totalAccountExtensionMonthsNbr": 0,
+    "totalOutstandingBalanceAmount": 0,
+    "totalPaymentsMadeCount": 26,
+    "totalTermExtensionMonthCount": 0,
+    "vehicleManufacturerSuggestedRetailPriceAmount": 0
+  },
+  "vehicleInformation": {
+    "vinSerialNumber": "3LN6L5F96HR605054",
+    "vehicleModelYear": "2017",
+    "vehicleMakeAbbreviationDescription": "Ford",
+    "vehicleModelAbbreviationDescription": "MKZ",
+    "vehicleBodyStyleText": "4DR",
+    "vehicleColorText": "White",
+    "actualInceptionMileageKilometersNumber": 0,
+    "commodityTypeCode": 1
+  },
+  "leaseAccountInformation": {
+    "singlePayRefundAmount": 0,
+    "termExtendedPaymentsWithoutTax": 0,
+    "taxesOnTermExtendedPrincipalPayments": 0,
+    "taxPercentageOnWearCareMileage": 0.03,
+    "manufactureRepurcahseEligibilityIndicator": "N"
+  },
+  "scraInformation": {
+    "preventActionIndicator": "N",
+    "activeDutyIndicator": "N",
+    "errorIndicator": "N"
+  },
+  "stateTaxInformation": {
+    "disposalFeeTaxIndicator": "Y",
+    "excessMilageTaxIndicator": "N",
+    "excessWearandTearTaxIndicator": "Y"
+  },
+  "tpiInformation": {
+    "tpiEligilibilityIndicator": "N"
+  },
+  "wearCareInformation": {
+    "wearCareIndicator": "N"
+  },
+  "accountMessageInformation": {
+    "leaseTransferNegativeResponseIndicator": "Y"
+  },
+  "accountChargeInformation": {
+    "rentalTaxAndGSTAmount": 14.02,
+    "localFeesAmount": 43.91
+  },
+  "customerGarageInformation": {
+    "customerGarageState": "NC"
+  },
+  "paymentScheduleInformation": {
+    "paymentScheduleAmount": 467.49,
+    "paymnetScheduleAmountBiWeekly": 467.49
+  },
+  "paymentSequenceInformation": {
+    "paymentSequenceStartDate": "2016-12-29"
+  },
+  "lessorInformation": [
+    {
+      "lessorName": "Ford Motor Credit Company"
+    },
+    {
+      "lessorName": "Ford Credit Lincoln"
+    }
+  ],
+  "dealerPickupLocationInformation": [
+    {
+      "dealerPickupLocation": "FCUS - JKAA6Y - BILL DUBE FORD INC , 40 DOVER POINT ROAD , DOVER , NH-03820, 4269"
+    },
+    {
+      "dealerPickupLocation": "FCUS - CKBP6Y - STARK EVE FORD INC , 12 AMERICAN ROAD , DETROIT , MI-03820, 3215"
+    },
+    {
+      "dealerPickupLocation": "FCUS - MLBB3X - NORTH BROTHERS FORD INC , 100 OXMOOR LN , LOUISEVILLE , KY-40222, 5682"
+    }
+  ]
+}
